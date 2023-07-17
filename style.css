@@ -122,11 +122,13 @@
       width: 70%;
       outline: none;
       border: none;
-      background-color: var(--dark-gray);
       color: var(--white);
       line-height: 28px;
+      background-color: transparent;
+
 
   }
+
 
   .btn {
       width: 100%;
